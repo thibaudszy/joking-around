@@ -1,0 +1,15 @@
+.progressBar {
+  width: 50%;
+  align-self: center;
+}
+
+.joke-button {
+  max-width: 10em;
+  align-self: center;
+  padding-top: 3em;
+  margin-bottom: 2em;
+}
+.joke {
+  display: flex;
+  flex-direction: column;
+}
